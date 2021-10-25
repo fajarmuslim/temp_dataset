@@ -1,16 +1,20 @@
-- text: myself john
+- text: 
+    sentence: myself john
     entity:
         - pos: 2
           name: john
-- text: i am roger
+- text: 
+    sentence: i am roger
     entity:
         - pos: 3
           name: roger
-- text: steve here
+- text: 
+    sentence: steve here
     entity:
         - pos: 1
           name: steve
-- text: hey myself david
+- text: 
+    sentence: hey myself david
     entity:
         - pos: 3
           name: david
